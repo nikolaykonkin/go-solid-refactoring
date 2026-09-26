@@ -1,0 +1,25 @@
+# Binaries
+/go-solid-refactoring
+*.exe
+*.test
+*.out
+
+# Coverage
+coverage.out
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
